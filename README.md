@@ -27,15 +27,16 @@
 
 
 ## フロントエンドフレームワーク
-Bootstrap5  
-Thymeleaf
+[Bootstrap5](https://v5.getbootstrap.com/) （CSS）  
+[Chart.js](https://www.chartjs.org/)（グラフ部分）  
+[Thymeleaf](https://www.thymeleaf.org/doc/tutorials/3.0/usingthymeleaf_ja.html)（Javaテンプレートエンジン）   
 (余裕があればVue.js?)
 
 ## バックエンドフレームワーク
-Springboot
+[Springboot](https://spring.pleiades.io/spring-boot/docs/current/reference/html/getting-started.html)
 
 ## サーバー
-AWS EC2
+[AWS EC2](https://aws.amazon.com/jp/ec2/)
 
 ## DB
 Mysql5.7  
