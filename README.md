@@ -30,11 +30,11 @@
 [Bootstrap5](https://v5.getbootstrap.com/) （CSS）  
 [Chart.js](https://www.chartjs.org/)（グラフ部分）  
 [Thymeleaf](https://www.thymeleaf.org/doc/tutorials/3.0/usingthymeleaf_ja.html)（Javaテンプレートエンジン）   
-[Vue.js](https://jp.vuejs.org/index.html)
+[Vue.js](https://jp.vuejs.org/index.html)  
 [element.ui](https://element.eleme.io/#/en-US)
 
 ## バックエンドフレームワーク
-[Springboot](https://spring.pleiades.io/spring-boot/docs/current/reference/html/getting-started.html)
+[Springboot](https://spring.pleiades.io/spring-boot/docs/current/reference/html/getting-started.html)  
 [MyBatis](https://mybatis.org/mybatis-3/ja/index.html)
 
 ## サーバー
